@@ -1,6 +1,6 @@
 Visualization of the stocks on heroku 
 
-Alpha_vantage has some issue with time series data.
+Alpha_vantage .... time series data.
  
 When using regular python  - plotting with other (plotly, matplotlib) - figures look better.
 Streamlit plots were not the best but work on heroku. 
