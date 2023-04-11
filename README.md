@@ -1,4 +1,4 @@
-Visualization of the stocks on heroku 
+# Visualization App of the Stock market with Streamlit on Heroku 
 
 Alpha_vantage .... time series data.
  
